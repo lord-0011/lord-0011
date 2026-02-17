@@ -1,9 +1,13 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;WELCOME+TO+PRIYANSHU'S+PROFILE;CSE+STUDENT+%7C+WEB+DEVELOPER;FUTURE+FULL+STACK+ENGINEER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=900&lines=BOOTING+SYSTEM...;ACCESS+GRANTED;WELCOME+TO+PRIYANSHU'S+PROFILE;CSE+STUDENT+%7C+WEB+DEVELOPER;FUTURE+FULL+STACK+ENGINEER" />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=PRIYANSHU&fontColor=ffffff&fontSize=60&animation=fadeIn" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
 </p>
 
 <p align="center">
@@ -12,21 +16,21 @@
 
 ---
 
-## 💀 USER TERMINAL
+## 💀 LIVE TERMINAL
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
 ```bash
-> Name: Priyanshu
+> User: Priyanshu
 > Role: BTech CSE Student
-> Specialization: Web Development
-> Status: Learning Full Stack
-> Goal: Crack Top Tech Internships
+> Mode: Full Stack Training
+> Status: ONLINE
+> Target: Top Tech Internship
 ```
 
 ---
 
-## ⚙️ TECH STACK
+## ⚡ TECH STACK LOADING...
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark" />
@@ -34,7 +38,7 @@
 
 ---
 
-## 🚀 PROJECT ARCHIVE
+## 🚀 PROJECT DATABASE
 
 ```diff
 + Amazon Clone
@@ -44,25 +48,35 @@
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+## 📊 SYSTEM MONITOR
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 CURRENT TRAINING
+## 🧠 TRAINING MODULES
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Learning+React.js;Learning+Node.js;Building+Full+Stack+Projects" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Learning+React.js;Learning+Node.js;Building+MERN+Projects;Preparing+for+Hackathons" />
+</p>
 
 ---
 
-## 📡 CONTACT
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📡 CONNECT
 
 ```
 LinkedIn: YOUR_LINKEDIN
@@ -72,9 +86,5 @@ Email: YOUR_EMAIL
 ---
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=150&section=footer" />
 </p>
