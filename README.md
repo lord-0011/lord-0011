@@ -1,73 +1,46 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2500&pause=700&color=2563EB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Priyanshu;BTech+CSE+Student;Aspiring+Full+Stack+Developer;Open+to+Internships+2026" />
-</p>
+# Hi there, I'm [Your Name] 👋 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=PRIYANSHU&fontColor=ffffff&fontSize=60&animation=fadeIn" />
-</p>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=2563EB&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;React+%26+Node.js+Specialist;Building+AlumniVerse;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💼 ABOUT ME
-
-🎓 BTech CSE Student
-💻 Web Developer → Full Stack
-🚀 Preparing for 2026 Placements
-🏆 Hackathon Participant
+### 💫 About Me
+- 🔭 I’m currently working on **AlumniVerse**, a centralized data management platform.
+- ⚡ I previously built **Wanderlust**, a full-stack travel web application.
+- 💬 Ask me about **React, Express, or Socket.io**.
+- 🚀 Fun fact: I love optimizing code for performance and scalability.
 
 ---
 
-## 🛠️ TECH STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github,vscode" />
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socketio" width="40" height="40"/>
 </p>
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
-🔹 UniFinder — University search system
-🔹 Amazon Clone — E-commerce UI
-🔹 Tic Tac Toe — JavaScript Game
-
----
-
-## 📊 GITHUB ANALYTICS
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
 
-## 🧠 CURRENTLY LEARNING
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React.js;Node.js;MERN+Stack;Backend+Development" />
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
----
-
-## 📫 CONTACT
-
-* LinkedIn: YOUR_LINKEDIN
-* Email: YOUR_EMAIL
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
