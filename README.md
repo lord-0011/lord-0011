@@ -1,40 +1,44 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Priyanshu;BTech+CSE+Student;Aspiring+Full+Stack+Developer;Hackathon+Enthusiast;Open+to+Internships+2026" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Priyanshu;BTech+CSE+Student;Aspiring+Full+Stack+Developer;Open+to+Internships+2026;Hackathon+Enthusiast" />
 </p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=PRIYANSHU&fontColor=ffffff&fontSize=60&animation=fadeIn" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0A66C2&style=flat" />
+</p>
+
 ---
 
-## 💼 ABOUT ME (FOR RECRUITERS)
+## 💼 ABOUT ME
 
 🎓 BTech CSE Student
-💻 Web Developer (Frontend → Full Stack)
-🚀 Preparing for 2026 Placements & Internships
+💻 Web Developer → Full Stack
+🚀 Preparing for 2026 Internships & Placements
 🏆 Hackathon Participant
-🧠 Strong in JavaScript & Problem Solving
+🧠 Strong in JavaScript
 
 ---
 
 ## 🛠️ TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,mongodb,express&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 FEATURED PROJECTS
 
-🔹 **UniFinder** — University search system
-🔹 **Amazon Clone** — Frontend e-commerce UI
-🔹 **Tic Tac Toe Game** — JavaScript game
+🔹 UniFinder — University search system
+🔹 Amazon Clone — E-commerce UI
+🔹 Tic Tac Toe — JavaScript Game
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
@@ -46,11 +50,11 @@
 
 ---
 
-## 🏆 HACKATHON & LEARNING
+## 🧠 CURRENTLY LEARNING
 
-✔ Participating in coding events & hackathons
-✔ Building real-world full stack projects
-✔ Learning MERN Stack
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Learning+React.js;Learning+Node.js;Building+Full+Stack+Projects;Preparing+for+Hackathons" />
+</p>
 
 ---
 
@@ -62,5 +66,5 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
 </p>
