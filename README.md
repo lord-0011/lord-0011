@@ -1,13 +1,17 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Priyanshu;BTech+CSE+Student;Aspiring+Full+Stack+Developer;Open+to+Internships+2026;Hackathon+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2000&pause=600&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Priyanshu;Full+Stack+Developer+in+Progress;Open+to+Internships+2026;Hackathon+Enthusiast" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=PRIYANSHU&fontColor=ffffff&fontSize=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=PRIYANSHU&fontSize=65&animation=twinkling" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0A66C2&style=flat" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
@@ -16,9 +20,8 @@
 
 🎓 BTech CSE Student
 💻 Web Developer → Full Stack
-🚀 Preparing for 2026 Internships & Placements
+🚀 Preparing for 2026 Placements
 🏆 Hackathon Participant
-🧠 Strong in JavaScript
 
 ---
 
@@ -38,14 +41,14 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS (LIVE)
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -53,7 +56,7 @@
 ## 🧠 CURRENTLY LEARNING
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Learning+React.js;Learning+Node.js;Building+Full+Stack+Projects;Preparing+for+Hackathons" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=React.js;Node.js;MERN+Stack;Backend+Development" />
 </p>
 
 ---
@@ -66,5 +69,5 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
