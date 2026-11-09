@@ -1,66 +1,57 @@
-# <p align="center">✨ Priyanshu Kumar | lord-0011 ✨</p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=38bdf8&animation=fadeIn" />
+  <img src="./assets/terminal.svg" width="820" alt="whoami: Priyanshu Kumar, B.Tech CSE '26, full-stack developer. Now: sending bug fixes to the React and Next.js libraries I use. Merged so far: Mantine, React Flow, Zag, Fumadocs." />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=BTech+CSE+@+2026+Grad;Building+AlumniVerse+🎓;MERN+Stack+Specialist;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+Hey, I'm Priyanshu 👋
 
----
+I build full-stack web apps, mostly on the MERN stack, and picked up React Native along the way. Lately I've been spending time in other people's codebases: finding bugs in the React and Next.js libraries I use, writing a failing test, and sending the fix upstream.
 
-### 💼 ABOUT ME
-- 🎓 **Education:** BTech Computer Science & Engineering (**Class of 2026**)
-- 💻 **Role:** Full Stack Web Developer focusing on scalable MERN applications.
-- 🚀 **Goal:** Preparing for 2026 Placements & building impactful software.
-- 🏆 **Experience:** Active Hackathon Participant & Problem Solver.
+### Things I've built
 
----
+- **[AlumniVerse](https://github.com/lord-0011/AlumniVerse)**: alumni networking platform that keeps alumni data and engagement in one place. MERN + Socket.io. [Live demo](https://alumni-verse-frontend.vercel.app)
+- **[Wanderlust](https://github.com/lord-0011/Wanderlust)**: full-stack app for discovering travel destinations. Node, Express, EJS.
+- **[UniFinder](https://github.com/lord-0011/UniFinder)**: search and filter universities. React.
+- **Amazon Clone**: e-commerce UI with a working cart. React.
+- A handful of small React Native apps from learning it: [Mini Spotify](https://github.com/lord-0011/MiniSpotify), [Currency Converter](https://github.com/lord-0011/CurrencyConverter), [Tic-Tac-Toe](https://github.com/lord-0011/TicTacToeApp), [Password Generator](https://github.com/lord-0011/Password-Generator).
 
-### 🛠️ TECH STACK
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,cpp,socketio,js,git,github,vscode,postman,vercel" />
-  </a>
-</p>
+### Open source
 
----
+Merged:
 
-### 🚀 FEATURED PROJECTS
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **AlumniVerse** | Centralized Alumni Data & Engagement Platform | `MERN` `Socket.io` |
-| **Wanderlust** | Full-stack Travel & Destination Discovery App | `Node.js` `Express` |
-| **UniFinder** | Smart University Search & Filtering System | `React` `API` |
-| **Amazon Clone** | E-commerce UI with dynamic cart functionality | `React` `CSS` |
+- **[Mantine](https://github.com/mantinedev/mantine/pull/9371)**: `NumberInput` no longer overrides the `inputMode` prop you pass it
+- **[React Flow](https://github.com/xyflow/xyflow/pull/6108)**: ignore `ResizeObserver` entries without a `contentRect` in the pane extent cache
+- **[Zag](https://github.com/chakra-ui/zag/pull/3574)**: combobox only scrolls its own list when bringing the highlighted item into view
+- **[Fumadocs](https://github.com/fuma-nama/fumadocs/pull/3803)**: links to tabs and accordions with non-English ids now open them
 
----
+<details>
+<summary>In review (11)</summary>
+<br />
 
-### 📊 GITHUB ANALYTICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lord-0011&show_icons=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&hide_border=true" alt="Stats" />
-</p>
+- **Zag** [#3626](https://github.com/chakra-ui/zag/pull/3626): keep the highlighted item in view inside a nested scroll area
+- **Radix UI** [#4267](https://github.com/radix-ui/primitives/pull/4267): controlled Tabs no longer fire `onValueChange` twice per click
+- **Base UI** [#6201](https://github.com/mui/base-ui/pull/6201): toast stack collapses when the pointer leaves after closing the hovered toast
+- **React Router** [#15721](https://github.com/remix-run/react-router/pull/15721): no more nonce hydration warning from `<Links>`
+- **Fumadocs** [#3806](https://github.com/fuma-nama/fumadocs/pull/3806): search close button's accessible name includes its visible text
+- **Nextra** [#5062](https://github.com/shuding/nextra/pull/5062): respect `prefers-reduced-motion` when the TOC scrolls
+- **Nextra** [#5063](https://github.com/shuding/nextra/pull/5063): navbar logo link takes its name from the visible logo text
+- **Nextra** [#5064](https://github.com/shuding/nextra/pull/5064): lite theme switch includes the current theme in its name
+- **next-intl** [#2448](https://github.com/amannn/next-intl/pull/2448): support built-in date and time styles in precompiled messages
+- **next-intl** [#2457](https://github.com/amannn/next-intl/pull/2457): one invalid `accept-language` entry no longer throws away the rest
+- **Kan** [#681](https://github.com/kanbn/kan/pull/681): avatar crop dialog fits on a phone screen
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lord-0011&theme=tokyonight&stroke=38bdf8&fire=38bdf8&ring=38bdf8&sideNums=38bdf8&currStreakNum=38bdf8&sideLabels=cbd5e1&currStreakLabel=38bdf8&hide_border=true" alt="Streak Stats" />
-</p>
+</details>
 
----
+[All my pull requests →](https://github.com/search?q=author%3Alord-0011+is%3Apr+-user%3Alord-0011&type=pullrequests&s=created&o=desc)
 
-### 🧠 CURRENTLY LEARNING
-- 🛠️ **System Design** and Scalability Patterns.
-- 🧪 **Advanced Backend** Optimization with Redis.
-- 📈 **Data Structures & Algorithms** for placement prep.
+### Stack
 
----
+JavaScript / TypeScript · React · Next.js · Node + Express · MongoDB · Socket.io · React Native · C++ for DSA
 
-### 📫 CONTACT
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+Currently learning system design, backend performance with Redis, and grinding DSA.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" />
-</p>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lord-0011/lord-0011/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/lord-0011/lord-0011/output/github-snake.svg" alt="A snake eating my GitHub contribution graph" />
+</picture>
