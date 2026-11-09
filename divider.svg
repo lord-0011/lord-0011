@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="8" viewBox="0 0 900 8" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="base" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#8b949e" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8b949e" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8b949e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="track"><rect x="0" y="3" width="900" height="2" rx="1"/></clipPath>
+  </defs>
+  <rect x="0" y="3.5" width="900" height="1" fill="url(#base)"/>
+  <g clip-path="url(#track)">
+    <rect x="-180" y="3" width="180" height="2" fill="url(#glow)">
+      <animate attributeName="x" from="-180" to="900" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
