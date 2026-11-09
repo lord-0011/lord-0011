@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/lord-0011 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:0d1117,55:10263f,100:1f4e79&text=Priyanshu%20Kumar&fontColor=e6edf3&fontSize=50&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20B.Tech%20CSE%20%2726&descSize=16&descAlignY=56&animation=fadeIn" alt="Priyanshu Kumar — full-stack developer, B.Tech CSE '26" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:0d1117,55:10263f,100:1f4e79&text=Priyanshu%20Kumar&fontColor=e6edf3&fontSize=50&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20B.Tech%20CSE%20%2726&descSize=16&descAlignY=56&animation=fadeIn" alt="Priyanshu Kumar — full-stack developer, B.Tech CSE '28" width="100%" />
 </p>
 
 <p align="center">
